@@ -1,1 +1,2 @@
-this is my own terminal, please do not use or steal my code.
+This is a linux like terminal made be me.
+Please do not steal the code and claim it as yours.
